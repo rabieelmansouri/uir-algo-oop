@@ -24,9 +24,11 @@ L'application demande à l'utilisateur de saisir le type de forme, ses paramètr
 
 - Suivez les instructions à l'écran pour saisir le type de forme, ses paramètres (rayon ou côté ) et la couleur dans laquelle vous souhaitez dessiner la forme.
 
-Forme : `string : chaine de charecatire`
-Color : `string : chaine de charecatire`
-Rayon ou côté : `int > 0`
+### Forme : `string : chaînes de caractères`
+
+### Color : `string : chaînes de caractères`
+
+### Rayon ou côté : `int > 0`
 
 - L'application générera un message et aussi une image dans le répertoire du project, représentant la forme dessinée avec les paramètres spécifiés.
 
