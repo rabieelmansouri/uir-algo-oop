@@ -1,0 +1,18 @@
+# Ignore Python virtual environments
+algo-oop/
+env/
+
+# Ignore pip packages
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Ignore Python virtual environments
+**/__pycache__/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.tox/
+**/.venv/
+**/venv/
+**/env/
