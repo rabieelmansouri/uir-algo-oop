@@ -10,7 +10,7 @@ L'application demande à l'utilisateur de saisir le type de forme, ses paramètr
 
 ## Pour utiliser ce projet, suivez ces instructions :
 
-- Clonez le repo depuis GitHub en utilisant la commande suivante, `git clone https://github.com/rabieelmansouri/uir-algo-oop.git`.
+- Clonez le repo depuis GitHub en utilisant la commande suivante, (`git clone https://github.com/rabieelmansouri/uir-algo-oop.git`).
 - Accédez au dossier du projet.
 - Créez un environnement virtuel pour isoler les dépendances, ex : (`python -m venv env`),
 - Activez l'environnement virtuel (`.\env\Scripts\activate`)
